@@ -3,8 +3,8 @@
 #include <string.h>
 #include <ctype.h>
 #define START 1
-#define MAXSIZE 50	//Максимальное число элементов 
-void work_with_set(char *set[]);	//Функция работы со множествами
+#define MAXSIZE 50  //Максимальное число элементов 
+void work_with_set(char *set[]);  //Функция работы со множествами
 void main_menu();
 int main(int argc, char const *argv[])
 {
