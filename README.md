@@ -1,4 +1,3 @@
-This is a git repo, created for educational purposes. BMSTU, 2 course.
 
 Цаплин А. С. ИУ4-32Б. 1 вариант
 
